@@ -17,9 +17,9 @@ var raw = JSON.stringify({
     "Content-Type": "application/json"
   },
   "params": [
-    `${ownerAddr}`,
+    `${0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be}`,
     [
-      `${tokenAddr}`,
+      `${0x607f4c5bb672230e8672085532f7e901544a7375}`,
     ]
   ],
   "id": 42
