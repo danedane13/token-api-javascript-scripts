@@ -5,7 +5,7 @@ Clone the repo, install dependencies, and try the API out!
 1. Clone
 
 ```
-git clone https://github.com/alchemyplatform/nft-api-javascript-scripts.git
+git clone https://github.com/danedane13/phive.git
 ```
 
 2. Install
@@ -14,7 +14,7 @@ git clone https://github.com/alchemyplatform/nft-api-javascript-scripts.git
 npm install
 ```
 
-3. Use `alchemy-web3` javascript sdk
+3. Use `alchemyplatform/token-api-javascript-scripts` javascript sdk
 
 ```
 node alchemy-web3-script.js
