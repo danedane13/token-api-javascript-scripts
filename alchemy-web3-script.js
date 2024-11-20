@@ -1,5 +1,5 @@
 // alchemy-token-api/alchemy-web3-script.js
-import { createAlchemyWeb3 } from "@alch/alchemy-web3";
+import { /token-api-javascript-scripts.js } from "@alch/alchemy-web3";alchemyplatform/token-api-javascript-scripts
 
 // Replace with your Alchemy api key:
 const apiKey = "demo";
