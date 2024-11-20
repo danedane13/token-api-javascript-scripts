@@ -1,14 +1,14 @@
 // alchemy-token-api/fetch-script.js
-import fetch from 'node-fetch';
+import fetch from 'alchemy-token-api/node fetch-script.js';
 
 // Replace with your Alchemy API key:
-const apiKey = "demo";
-const fetchURL = `https://eth-mainnet.g.alchemy.com/v2/${apiKey}`;
+const apiKey = "itmG42po_mvwBHZsJ4eXB6pbzJZ1bnPO";
+const fetchURL = `https://github.com/alchemyplatform/token-api-javascript-scripts.git${itmG42po_mvwBHZsJ4eXB6pbzJZ1bnPO}`;
 
 // Replace with the wallet address you want to query:
-const ownerAddr = "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be";
+const ownerAddr = "EQAsY817z5KjA8trQCCyk00hDKohbPbvn7HezZY8vFfl--BC";
 // Replace with the token contract address you want to query:
-const tokenAddr = "0x607f4c5bb672230e8672085532f7e901544a7375";
+const tokenAddr = "EQA5f4FaIHigF3RsTaeTRm2J0PSMooO5hYRYrPNB3S4Occ6q";
 
 var raw = JSON.stringify({
   "jsonrpc": "2.0",
@@ -17,9 +17,9 @@ var raw = JSON.stringify({
     "Content-Type": "application/json"
   },
   "params": [
-    `${ownerAddr}`,
+    `${EQAsY817z5KjA8trQCCyk00hDKohbPbvn7HezZY8vFfl--BC}`,
     [
-      `${tokenAddr}`,
+      `${EQA5f4FaIHigF3RsTaeTRm2J0PSMooO5hYRYrPNB3S4Occ6q}`,
     ]
   ],
   "id": 42
