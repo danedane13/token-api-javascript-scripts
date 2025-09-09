@@ -3,7 +3,7 @@ import axios from 'axios';
 
 // Replace with your Alchemy API key:
 const apiKey = "demo";
-const baseURL = `https://eth-mainnet.g.alchemy.com/v2/${apiKey}`;
+const baseURL = `https://eth-mainnet.g.alchemy.com/v2/${mLHZ2vsjXUNbuz6RKT5uo}`;
 // Replace with the wallet address you want to query:
 const ownerAddr = "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be";
 // Replace with the token contract address you want to query:
