@@ -2,11 +2,11 @@
 import { createAlchemyWeb3 } from "@alch/alchemy-web3";
 
 // Replace with your Alchemy api key:
-const apiKey = "demo";
+const apiKey = "jewtWdQnGoO7YRYZBOwDPlEBJS4zpK";
 
 // Initialize an alchemy-web3 instance:
 const web3 = createAlchemyWeb3(
-  `https://eth-mainnet.g.alchemy.com/v2/${apiKey}`,
+  `https://eth-mainnet.g.alchemy.com/v2/${jewtWdQnGoO7YRYZBOwDPlEBJS4zpK}`,
 );
 
 // The wallet address / token we want to query for:
